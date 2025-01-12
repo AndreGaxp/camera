@@ -26,20 +26,16 @@ Lib que disponibiliza o uso da camera no aplicativo.
   <table>
     <tr>
       <td align="center">
-        <p><b>Tela Login</b></p>
-        <img src="https://github.com/user-attachments/assets/83acdef2-10f9-4423-8a5f-e1344f47aa71" alt="Tela Login" width="250">
+        <p><b>Inicial</b></p>
+        <img src="https://github.com/user-attachments/assets/2ac03f0c-34e1-45f7-b158-d324ebf073f4" alt="Inicial" width="250">
       </td>
-      <td align="center">
+      <td align="Album">
         <p><b>Tela Início</b></p>
-        <img src="https://github.com/user-attachments/assets/3280bcee-db82-435b-a9f8-3ac2ed4d85a3" alt="Tela Início" width="250">
+        <img src="https://github.com/user-attachments/assets/98c8c497-8940-476f-be36-e245452e9750" alt="Album" width="250">
       </td>
       <td align="center">
         <p><b>Drawer</b></p>
-        <img src="https://github.com/user-attachments/assets/7e98d263-4611-400c-8a4c-82857fb5405f" alt="Drawer" width="250">
-      </td>
-      <td align="center">
-        <p><b>Canlendario (Filtrar registros)</b></p>
-        <img src="https://github.com/user-attachments/assets/805400c1-973b-47fc-8233-fa4961a059d3f" alt="Calendario" width="250">
+        <img src="https://github.com/user-attachments/assets/7113b1e0-9768-4de3-b55b-05edfca420b0" alt="Image" width="250">
       </td>
     </tr>
   </table>
