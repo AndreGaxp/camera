@@ -1,79 +1,47 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<h1> 📱 Camera </h1>
 
-# Getting Started
+Aplicativo simples que utiliza a camera do celular onde podemos tanto abrir o albúm e selecionar fotos como abrir a camera pelo aplicativo e tirar a foto.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+<h1>📋 Funcionalidades</h1>
 
-## Step 1: Start the Metro Server
+- Camera
+Aplicativo capaz de abrir a camera do celular para tirar foto.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+- Album
+Acesso a galeria do celular podendo selecionar as fotos que deseja. (Quantidade de seleção definida nas options)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- Foto salva
+As fotos tiradas no aplicativo, ficam salva no seu celular.
 
-```bash
-# using npm
-npm start
+<h1>🛠️ Tecnologias Utilizadas</h1>
+- React Native <br>
+Estrutura base para desenvolvimento do app.
 
-# OR using Yarn
-yarn start
-```
+- Image Picker
+Lib que disponibiliza o uso da camera no aplicativo.
 
-## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+<h1>🖼️ Interface</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p><b>Tela Login</b></p>
+        <img src="https://github.com/user-attachments/assets/83acdef2-10f9-4423-8a5f-e1344f47aa71" alt="Tela Login" width="250">
+      </td>
+      <td align="center">
+        <p><b>Tela Início</b></p>
+        <img src="https://github.com/user-attachments/assets/3280bcee-db82-435b-a9f8-3ac2ed4d85a3" alt="Tela Início" width="250">
+      </td>
+      <td align="center">
+        <p><b>Drawer</b></p>
+        <img src="https://github.com/user-attachments/assets/7e98d263-4611-400c-8a4c-82857fb5405f" alt="Drawer" width="250">
+      </td>
+      <td align="center">
+        <p><b>Canlendario (Filtrar registros)</b></p>
+        <img src="https://github.com/user-attachments/assets/805400c1-973b-47fc-8233-fa4961a059d3f" alt="Calendario" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
 
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
